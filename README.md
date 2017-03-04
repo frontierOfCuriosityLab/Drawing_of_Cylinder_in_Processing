@@ -8,5 +8,5 @@ You can draw a cylinder primitive in Processing<br>
 
 #Prameters to use this<br>
 
-    <code>void setCylinderCordinates(int radius, int heightSize, int resolution)</code>
+    void setCylinderCordinates(int radius, int heightSize, int resolution)
     
